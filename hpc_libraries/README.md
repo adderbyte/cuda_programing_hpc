@@ -1,2 +1,2 @@
 
-Explot Thrust, CUBLAS,GPUMAT,MAGMA.
+Exploit Thrust, CUBLAS,GPUMAT,MAGMA.
