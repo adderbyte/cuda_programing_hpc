@@ -29,3 +29,6 @@ hello2.cu : this prints hello world together with the ID of a specific thread.
 		
 		CUDA: computing platform and programming model that leverages the parallel 
 		       compute engine in NVIDIA GPUs to solve complex computational problems. 
+		       
+
+   ![alt-text](https://github.com/adderbyte/cuda_programming/blob/master/Images/screen.png)
