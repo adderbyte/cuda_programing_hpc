@@ -1,6 +1,8 @@
 
 ------------
-### Simple Examples And Explanation
+
+	 Simple Examples And Explanations
+
 ------------
 
 
@@ -18,9 +20,12 @@ hello2.cu : this prints hello world together with the ID of a specific thread.
 	  Both are important in more sophiscated computations.
 
 
-General note :
+#### General note :
+
 		Host : CPU
-                Device: GPU (for compute intensive and highly parallel computation). 
+		
+		Device: GPU (for compute intensive and highly parallel computation). 
 		        CUDA threads execute in the device. 
-                CUDA: computing platform and programming model that leverages the parallel 
+		
+		CUDA: computing platform and programming model that leverages the parallel 
 		       compute engine in NVIDIA GPUs to solve complex computational problems. 
