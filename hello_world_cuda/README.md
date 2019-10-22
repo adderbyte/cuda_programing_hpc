@@ -6,7 +6,9 @@
 ------------
 
 
+
 hello.cu : this example prints hello world. It shows how to define a kernel,together with how to set the execution configuration syntax.
+
            
    	 (1) Kernel:  c defined functions to be executed by the cuda threads (in the device)
          You can spot it through the __global__ declaration specifier.
@@ -14,6 +16,7 @@ hello.cu : this example prints hello world. It shows how to define a kernel,toge
 	 (2) <<< 1,1 >>> is the execution configuration syntax. It specifies 
 	    the number of CUDA threads that can execute a kernel.
          
+
 
 hello2.cu : this prints hello world together with the ID of a specific thread. 
           It shows how to get the thread and block id.
