@@ -1,6 +1,6 @@
 ------------------------------------------------
 
-##### cuda programming and related libraries (Example Implementations)
+##### cuda programming and related libraries 
     
 --------------------------------------
 
