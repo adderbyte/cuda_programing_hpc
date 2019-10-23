@@ -4,7 +4,7 @@
     
 --------------------------------------
 
-Investigated cuda libraries
+Investigated cuda libraries/API:
 
 1) [Thrust](https://docs.nvidia.com/cuda/thrust/index.html)
  
@@ -18,7 +18,9 @@ Investigated cuda libraries
  
 6) [cuSPARSE](https://developer.nvidia.com/cuda-math-library).
 
-7) [TensirRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/python_api/index.html)
+7) [TensorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/python_api/index.html)
 
 
 Other libraries : [Other Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
+
+More to be added as necessary.
