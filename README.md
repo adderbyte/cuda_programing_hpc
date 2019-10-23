@@ -1,6 +1,6 @@
 ------------------------------------------------
 
-##### cuda programming and related libraries 
+##### cuda programming and related libraries practice
     
 --------------------------------------
 
