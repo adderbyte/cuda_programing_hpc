@@ -1,2 +1,2 @@
 
-cuda programming introduction
+cuda programming illustrated here with simple examples.
