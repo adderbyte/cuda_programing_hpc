@@ -20,7 +20,6 @@ Investigated cuda libraries/API:
 
 7) [TensorRT](https://docs.nvidia.com/deeplearning/sdk/tensorrt-api/python_api/index.html)
 
-
-Other libraries : [Other Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
+8) [Other Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
 
 More to be added as necessary.
