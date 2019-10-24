@@ -22,6 +22,6 @@ Investigated cuda libraries/API:
 
 8) [PyCuda](https://documen.tician.de/pycuda/install.html)
 
-9) [Other Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
+9) [Other gpu Libraries](https://developer.nvidia.com/gpu-accelerated-libraries)
 
 More to be added as necessary.
