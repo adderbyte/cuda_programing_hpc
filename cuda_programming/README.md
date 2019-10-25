@@ -1,6 +1,6 @@
 
 
-#### cuda programming illustrated here with simple examples.
+#### cuda programming illustrated in this folder with simple examples.
 
 To compile and run the programs in this folder :
 
